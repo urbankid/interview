@@ -2,13 +2,16 @@
 
 ## Apply for interview
 
-Create this webpage and send us your result. We strive for excellent interfaces. Amaze us with your interpretation of this simple page. There is no restriction on how you do it and what you use to create it. Btw, people tend to visit webpages with their phone these days too.
+Create this webpage and send us your result. We strive for excellent interfaces.
+Amaze us with your interpretation of this simple page.
+There is no restriction on how you do it and what you use to create it.
+Btw, people tend to visit webpages with their phone these days too.
 
 Clone this repo and send us your version.
 
 ## Assets
 
-Needed assets can be found in the assets/ folder.
+Needed assets can be found in the assets/ folder. The text content is found in assets/content.json
 
 ## Design
 
