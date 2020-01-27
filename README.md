@@ -11,7 +11,7 @@ Clone this repo and send us your version.
 
 ## Assets
 
-Needed assets can be found in the assets/ folder. The text content is found in assets/content.json
+Needed assets can be found in the assets/ folder. The text content can be found in assets/content.json
 
 ## Design
 
