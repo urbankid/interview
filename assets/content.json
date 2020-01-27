@@ -1,0 +1,114 @@
+{
+  "modules": [
+    {
+      "type": "Hero",
+      "image": {
+        "file": "code-1500.jpg"
+      },
+      "overlay": [
+        {
+          "image": {
+            "position": "center",
+            "file": "grensesnitt-logo-vertikal.svg"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Title",
+      "text": [
+        {
+          "title": "Vi lager grensesnitt folk elsker"
+        }
+      ]
+    },
+    {
+      "type": "ImageAndText",
+      "text": [
+        {
+          "body": "Grensesnitt AS utvikler mobilapper, webbaserte applikasjoner og bygger komponentbaserte nettsider. Vi jobber med flere interessante prosjekter hvor vi utvikler egen programvare for salg direkte til sluttbrukere, og samarbeider med dyktige og kravstore designere som lar oss utforme spennende og krevende nettsider og webapplikasjoner."
+        }
+      ],
+      "image": {
+        "position": "right",
+        "file": "AdobeStock_226007466_Preview.jpeg"
+      }
+    },
+    {
+      "type": "ImageAndText",
+      "text": [
+        {
+          "title": "Kvalitet",
+          "body": "Vi har lang og bred erfaring innenfor våre fagfelter og er opptatt av kvalitet i alle ledd."
+        },
+        {
+          "title": "Samarbeid",
+          "body": "Uten samarbeid går alle prosjekter og produkter dukken. Vi samarbeider med deg og med partnere som utfyller oss."
+        },
+        {
+          "title": "Nærhet",
+          "body": "Vi er opptatt av å være tett på og kunne løse utfordringene dine når du trenger det."
+        }
+      ],
+      "image": {
+        "position": "left",
+        "file": "AdobeStock_284527742_Preview.jpeg"
+      }
+    },
+    {
+      "type": "Info",
+      "image": {
+        "file": "user-ninja-duotone.svg"
+      },
+      "text": [
+        {
+          "title": "Stilling ledig"
+        },
+        {
+          "body": "Er du vår nye kodeninja?"
+        },
+        {
+          "body": "Send oss en e-post"
+        }
+      ]
+    },
+    {
+      "type": "Footer",
+      "left": [
+        {
+          "text": [
+            {
+              "body": "Forum Jæren, 16. etasje"
+            },
+            {
+              "body": "Hetlandsgata 9"
+            },
+            {
+              "body": "4344 Bryne"
+            }
+          ]
+        }
+      ],
+      "center": [
+        {
+          "image": {
+            "position": "center",
+            "file": "grensesnitt-logo.svg"
+          }
+        }
+      ],
+      "right": [
+        {
+          "text": [
+            {
+              "body": "post@grensesnitt.no"
+            },
+            {
+              "body": "91100918"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
