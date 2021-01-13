@@ -9,7 +9,7 @@
         {
           "image": {
             "position": "center",
-            "file": "grensesnitt-logo-vertikal.svg"
+            "file": "logo-white-colors.svg"
           }
         }
       ]
@@ -18,7 +18,7 @@
       "type": "Title",
       "text": [
         {
-          "title": "Vi lager grensesnitt folk elsker"
+          "title": "Vi lager grensesnitt som folk elsker."
         }
       ]
     },
@@ -26,49 +26,38 @@
       "type": "ImageAndText",
       "text": [
         {
-          "body": "Grensesnitt AS utvikler mobilapper, webbaserte applikasjoner og bygger komponentbaserte nettsider. Vi jobber med flere interessante prosjekter hvor vi utvikler egen programvare for salg direkte til sluttbrukere, og samarbeider med dyktige og kravstore designere som lar oss utforme spennende og krevende nettsider og webapplikasjoner."
+          "body": "Grensesnitt er Bjørnar, Vegard, Martha, Hege og Bjørn. Vi blir glade av å hjelpe deg med å få en enklere og mer effektiv hverdag. Dette gjør vi gjennom å utvikle mobilapper, webbaserte applikasjoner og å bygge komponentbaserte nettsider. Vi samarbeider med dyktige designere som lar oss utforme spennende og krevende nettsider og webapplikasjoner."
         }
       ],
       "image": {
         "position": "right",
-        "file": "AdobeStock_226007466_Preview.jpeg"
+        "file": "grensesnitt-alle-tilsette-sept-2020.jpg"
       }
     },
     {
       "type": "ImageAndText",
       "text": [
         {
-          "title": "Kvalitet",
-          "body": "Vi har lang og bred erfaring innenfor våre fagfelter og er opptatt av kvalitet i alle ledd."
-        },
-        {
-          "title": "Samarbeid",
-          "body": "Uten samarbeid går alle prosjekter og produkter dukken. Vi samarbeider med deg og med partnere som utfyller oss."
-        },
-        {
-          "title": "Nærhet",
-          "body": "Vi er opptatt av å være tett på og kunne løse utfordringene dine når du trenger det."
+          "title": "Om oss",
+          "body": "Vi har kontor i 9. etasje i Høghuset på Bryne og nyter utsikten over Jæren når vi ikke kikker konsentrert på skjermene våre. Felles for alt vi gjør er at vi liker å samarbeide med kunder, partnere og andre leverandører for å lage ting som er enkle å bruke – både for deg og for kunden din."
         }
       ],
       "image": {
         "position": "left",
-        "file": "AdobeStock_284527742_Preview.jpeg"
+        "file": "view.jpg"
       }
     },
     {
       "type": "Info",
       "image": {
-        "file": "user-ninja-duotone.svg"
+        "file": "person-sign-light.svg"
       },
       "text": [
         {
-          "title": "Stilling ledig"
+          "title": "Lyst til å bli en del av Grensesnitt?"
         },
         {
-          "body": "Er du vår nye kodeninja?"
-        },
-        {
-          "body": "Send oss en e-post"
+          "body": "Vi er alltid interessert i å treffe kjekke og flinke folk, så ta gjerne kontakt med bjornar@grensesnitt.no om du vil ta en kaffe og en prat."
         }
       ]
     },
@@ -78,13 +67,16 @@
         {
           "text": [
             {
-              "body": "Forum Jæren, 16. etasje"
+              "title": "Besøk oss"
             },
             {
-              "body": "Hetlandsgata 9"
+              "body": "Høghuset"
             },
             {
-              "body": "4344 Bryne"
+              "body": "Forum Jæren, 9. etg"
+            },
+            {
+              "body": "Hetlandsgata 9, 4344 Bryne"
             }
           ]
         }
@@ -93,7 +85,7 @@
         {
           "image": {
             "position": "center",
-            "file": "grensesnitt-logo.svg"
+            "file": "logo-white-colors.svg"
           }
         }
       ],
@@ -101,10 +93,13 @@
         {
           "text": [
             {
-              "body": "post@grensesnitt.no"
+              "title": "Kontakt oss"
             },
             {
-              "body": "91100918"
+              "body": "bjornar@grensesnitt.no"
+            },
+            {
+              "body": "+47 911 00 918"
             }
           ]
         }
