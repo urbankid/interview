@@ -17,4 +17,4 @@ Needed assets can be found in the assets/ folder. The text content can be found 
 
 The design can be found in the design/ folder. There are both a link to the Figma-file and a PNG versions of the design we want you to implement.
 
-![Design](https://github.com/Grensesnitt/interview/blob/master/design/Web%201920%20–%201.png)
+![Design](https://github.com/Grensesnitt/interview/blob/master/design/One-pager.png)
