@@ -92,7 +92,7 @@ function App() {
           </p>
         </div>
         <div className="bg-black text-white lg:text-2xl">
-          <div className="md:flex justify-between max-w-screen-2xl mx-auto p-10 md:p-20">
+          <div className="md:flex justify-between max-w-screen-2xl mx-auto p-10 pb-20 md:p-20 md:pb-40">
             <div className="md:order-2">
               <a href="https://www.grensesnitt.no">
                 <img src={logo} className="w-full" alt="Grensesnitt" />
