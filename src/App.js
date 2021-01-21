@@ -6,14 +6,14 @@ import recruitment from "./assets/recruitment-icon.svg";
 
 function App() {
   return (
-    <div className="bg-white font-sans">
+    <div className="bg-white font-sans antialiased">
       <header className="grid grid-cols-1 h-80 sm:h-96 md:h-100 lg:h-110 xl:120">
         <div className="relative z-10 col-start-1 row-start-1 bg-gradient-to-t from-black flex justify-center h-full">
           <a
             href="https://www.grensesnitt.no"
             className="flex justify-center w-full"
           >
-            <img src={logo} className="md:w-100" alt="Grensesnitt" />
+            <img src={logo} className="mx-20 md:w-100" alt="Grensesnitt" />
           </a>
         </div>
         <div className="col-start-1 row-start-1 flex">
