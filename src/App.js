@@ -7,9 +7,14 @@ import recruitment from "./assets/recruitment-icon.svg";
 function App() {
   return (
     <div className="bg-white font-sans">
-      <header className="grid grid-cols-1 h-80 sm:h-96 md:h-100 lg:h-110">
-        <div className="relative z-10 col-start-1 row-start-1 bg-gradient-to-t from-black flex justify-center">
-          <img src={logo} className="w-1/2" alt="Grensesnitt" />
+      <header className="grid grid-cols-1 h-80 sm:h-96 md:h-100 lg:h-110 xl:120">
+        <div className="relative z-10 col-start-1 row-start-1 bg-gradient-to-t from-black flex justify-center h-full">
+          <a
+            href="https://www.grensesnitt.no"
+            className="flex justify-center w-full"
+          >
+            <img src={logo} className="md:w-100" alt="Grensesnitt" />
+          </a>
         </div>
         <div className="col-start-1 row-start-1 flex">
           <div className="w-full grid">
@@ -24,7 +29,7 @@ function App() {
         </div>
       </header>
       <main className="max-w-screen-2xl mx-auto p-10 md:p-20">
-        <h1 className="font-hind text-5xl md:text-7xl text-center mb-20">
+        <h1 className="font-hind text-5xl md:text-7xl text-center mb-10 md:mb-20">
           Vi lager grensesnitt som folk elsker.
         </h1>
         <div className="md:flex mb-10 md:mb-20">
@@ -89,7 +94,9 @@ function App() {
         <div className="bg-black text-white lg:text-2xl">
           <div className="md:flex justify-between max-w-screen-2xl mx-auto p-10 md:p-20">
             <div className="md:order-2">
-              <img src={logo} className="w-full" alt="Grensesnitt" />
+              <a href="https://www.grensesnitt.no">
+                <img src={logo} className="w-full" alt="Grensesnitt" />
+              </a>
             </div>
             <div className="mt-10 md:mt-0 md:order-1">
               <span className="font-bold">Besøk oss</span>
@@ -110,7 +117,7 @@ function App() {
                 bjornar@grensesnitt.no
               </a>
               <br />
-              +47 911 00 918
+              <a href="tel:+47 911 00 918">+47 911 00 918</a>
             </div>
           </div>
         </div>
