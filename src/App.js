@@ -7,7 +7,7 @@ import recruitment from "./assets/recruitment-icon.svg";
 function App() {
   return (
     <div className="bg-white font-sans">
-      <header className="grid grid-cols-1 h-80 sm:h-96 md:h-100">
+      <header className="grid grid-cols-1 h-80 sm:h-96 md:h-100 lg:h-110">
         <div className="relative z-10 col-start-1 row-start-1 bg-gradient-to-t from-black flex justify-center">
           <img src={logo} className="w-1/2" alt="Grensesnitt" />
         </div>
@@ -23,12 +23,12 @@ function App() {
           </div>
         </div>
       </header>
-      <main className="max-w-screen-2xl mx-auto p-20">
+      <main className="max-w-screen-2xl mx-auto p-10 md:p-20">
         <h1 className="font-hind text-5xl md:text-7xl text-center mb-20">
           Vi lager grensesnitt som folk elsker.
         </h1>
-        <div className="md:flex mb-20">
-          <div className="mb-20 md:mb-0 md:pr-20 lg:text-2xl">
+        <div className="md:flex mb-10 md:mb-20">
+          <div className="mb-10 md:mb-0 md:pr-20 lg:text-2xl flex flex-col justify-end">
             <p className="mb-5">
               Grensesnitt er Bjørnar, Vegard, Martha, Hege og Bjørn. Vi blir
               glade av å hjelpe deg med å få en enklere og mer effektiv hverdag.
@@ -45,7 +45,7 @@ function App() {
           </div>
         </div>
         <div className="md:flex">
-          <div className="mb-20 md:mb-0 md:pl-20 order-2 md:order-2 lg:text-2xl">
+          <div className="mb-10 md:mb-0 md:pl-20 order-2 md:order-2 lg:text-2xl">
             <h2 className="font-hind text-3xl lg:text-5xl mb-5">Om oss</h2>
             <p className="mb-5">
               Vi har kontor i 9. etasje i Høghuset på Bryne og nyter utsikten
@@ -63,7 +63,7 @@ function App() {
         </div>
       </main>
       <footer className="bg-blue">
-        <div className="max-w-lg md:px-10 md:max-w-4xl mx-auto text-white text-center pb-10">
+        <div className="max-w-lg md:px-12 md:max-w-4xl mx-auto text-white text-center pb-10">
           <div className="flex justify-center pt-10">
             <img
               src={recruitment}
@@ -71,10 +71,10 @@ function App() {
               alt="Recruitment icon"
             />
           </div>
-          <h3 className="font-hind text-3xl lg:text-5xl my-5 mx-20 md:mx-0">
+          <h3 className="font-hind text-3xl lg:text-5xl my-5 mx-10 md:mx-0">
             Lyst til å bli en del av Grensesnitt?
           </h3>
-          <p className="mx-20 md:mx-0 lg:text-2xl">
+          <p className="mx-10 md:mx-0 lg:text-2xl">
             Vi er alltid interessert i å treffe kjekke og flinke folk, så ta
             gjerne kontakt med
             <a
@@ -87,7 +87,7 @@ function App() {
           </p>
         </div>
         <div className="bg-black text-white lg:text-2xl">
-          <div className="md:flex justify-between max-w-screen-2xl mx-auto p-20">
+          <div className="md:flex justify-between max-w-screen-2xl mx-auto p-10 md:p-20">
             <div className="md:order-2">
               <img src={logo} className="w-full" alt="Grensesnitt" />
             </div>
