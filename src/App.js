@@ -63,7 +63,7 @@ function App() {
         </div>
       </main>
       <footer className="bg-blue">
-        <div className="max-w-lg md:px-10 md:max-w-3xl mx-auto text-white text-center pb-10">
+        <div className="max-w-lg md:px-10 md:max-w-4xl mx-auto text-white text-center pb-10">
           <div className="flex justify-center pt-10">
             <img
               src={recruitment}
