@@ -20,9 +20,6 @@ module.exports = {
         sans: ["Roboto", ...defaultTheme.fontFamily.sans],
         hind: ["Hind", "sans-serif"],
       },
-      height: {
-        "h-100": "811px",
-      },
     },
 
     spacing: {
