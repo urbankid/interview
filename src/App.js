@@ -12,6 +12,7 @@ function App() {
           <a
             href="https://www.grensesnitt.no"
             className="flex justify-center w-full"
+            title="Grensesnitt"
           >
             <img src={logo} className="mx-10 md:w-100" alt="Grensesnitt" />
           </a>
